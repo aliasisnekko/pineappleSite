@@ -1,0 +1,53 @@
+body {
+    background-color: #f8f1f1;
+    background-image: url("https://images2.minutemediacdn.com/image/upload/c_crop,h_1414,w_2101,x_10,y_0/v1588813744/shape/mentalfloss/65506-gettyimages-1045593054.jpg?itok=5LCrTexY");
+    background-size: cover;
+    z-index: 0;
+    height: 1000px;
+    overflow-x: hidden;
+}
+
+nav {
+    font-family: 'Chango', cursive;
+    background: rgb(232, 255, 0);
+    background: linear-gradient(222deg, rgba(232, 255, 0, 1) 0%, rgba(227, 240, 103, 1) 100%);
+}
+
+.h1 {
+    text-shadow: 0px 4px black;
+    font-size: 2.5rem;
+}
+
+.nav-link {
+    color: #fff !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #000 !important;
+}
+
+
+/* .card-title {
+    text-align: center;
+} */
+
+.card-img {
+    width: 200px;
+    height: 200px;
+}
+
+.textbox {
+    background: rgb(232, 255, 0);
+    background: linear-gradient(180deg, rgba(232, 255, 0, 1) 0%, rgba(227, 240, 103, 1) 100%);
+    color: rgb(17, 1, 1);
+}
+
+.header-text {
+    font-family: 'Pacifico', cursive;
+    font-size: 5rem;
+    padding-top: 250px;
+    height: 500px;
+    display: inline-block;
+    text-align: center;
+}
